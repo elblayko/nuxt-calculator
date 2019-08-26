@@ -1,5 +1,7 @@
 # nuxt-calculator
 
+[![Build Status](https://travis-ci.org/elblayko/nuxt-calculator.svg?branch=master)](https://travis-ci.org/elblayko/nuxt-calculator)
+
 > My learning nuxt.js project
 
 ![Screenshot](https://i.imgur.com/cm7zpi0l.png)
